@@ -5,7 +5,7 @@ This model provides a cost-benefit analysis for scaling the inventory bot, based
 
 ## 2. Synthetic Projections
 - **Transactions Processed:** We project a linear increase in transactions from a base of 10,000 per day to 50,000, 100,000, and 1,000,000 as we scale out to 5x, 10x, and 100x workloads.
-- **Synthetic Data:** The script `generate_fake_logs.py` in `/scripts/` was used to simulate these transaction volumes and their associated metrics.
+- **Synthetic Data:** The script `inventory_bot.py` was used to simulate these transaction volumes and their associated metrics.
 
 ## 3. Cost Per Transaction
 - **Calculation:** Cost per transaction is estimated by combining CPU time, I/O operations, retries, and error rates.
