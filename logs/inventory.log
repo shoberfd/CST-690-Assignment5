@@ -1,0 +1,616 @@
+{"timestamp": "2025-08-09 15:42:52,360", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2637", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:42:52,362", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7284", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:42:52,363", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5589", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:42:52,363", "level": "WARNING", "message": "Error processing item SKU-6246: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-6246", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:42:54,365", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6246", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:42:54,365", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2508", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:42:54,365", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:42:56,745", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8379", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:42:56,745", "level": "WARNING", "message": "Error processing item SKU-5910: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5910", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:42:58,746", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5910", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:42:58,746", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8821", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:42:58,746", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7268", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:42:58,747", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7517", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:42:58,747", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:00,381", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5015", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:00,381", "level": "WARNING", "message": "Error processing item SKU-5190: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5190", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:02,381", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5190", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:02,381", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8010", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:02,381", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1716", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:02,382", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5461", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:02,382", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:03,459", "level": "WARNING", "message": "Error processing item SKU-2419: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2419", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:05,460", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2419", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:05,460", "level": "WARNING", "message": "Error processing item SKU-3548: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-3548", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:07,461", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3548", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:07,461", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2601", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:07,461", "level": "WARNING", "message": "Error processing item SKU-8694: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8694", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:09,463", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8694", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:09,463", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7281", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:09,463", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:11,777", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7638", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:11,777", "level": "WARNING", "message": "Error processing item SKU-1860: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1860", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:13,777", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1860", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:13,778", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4009", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:13,778", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6360", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:13,778", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5794", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:13,778", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:15,489", "level": "WARNING", "message": "Error processing item SKU-8892: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8892", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:17,491", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8892", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:17,491", "level": "WARNING", "message": "Error processing item SKU-2033: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2033", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:19,492", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2033", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:19,492", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5173", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:19,492", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8022", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:19,492", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1649", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:19,492", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:22,458", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8928", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:22,458", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1686", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:22,458", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7982", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:22,458", "level": "WARNING", "message": "Error processing item SKU-3860: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-3860", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:24,459", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3860", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:24,459", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8477", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:24,459", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:27,248", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8764", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:27,248", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1802", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:27,248", "level": "WARNING", "message": "Error processing item SKU-7490: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-7490", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:29,250", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7490", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:29,250", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3158", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:29,250", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4862", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:29,250", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:32,019", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7619", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:32,019", "level": "WARNING", "message": "Error processing item SKU-5097: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5097", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:34,020", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5097", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:34,020", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2016", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:34,020", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6878", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:34,020", "level": "WARNING", "message": "Error processing item SKU-8030: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8030", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:36,021", "level": "WARNING", "message": "Error processing item SKU-8030: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-8030", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:40,022", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8030", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:40,022", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:42,196", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1980", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:42,196", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9547", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:42,196", "level": "WARNING", "message": "Error processing item SKU-8687: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8687", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:44,197", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8687", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:44,197", "level": "WARNING", "message": "Error processing item SKU-2184: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2184", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:46,199", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2184", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:46,199", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8008", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:46,199", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:47,224", "level": "WARNING", "message": "Error processing item SKU-1827: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1827", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:49,225", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1827", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:49,226", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7990", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:49,226", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7666", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:49,226", "level": "WARNING", "message": "Error processing item SKU-9903: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-9903", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:51,226", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9903", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:51,226", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7411", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:51,226", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:52,789", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4861", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:52,789", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8304", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:52,789", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9429", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:52,789", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1750", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:52,790", "level": "WARNING", "message": "Error processing item SKU-7331: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-7331", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:54,791", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7331", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:54,791", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:43:56,439", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9882", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:56,439", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3446", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:56,440", "level": "WARNING", "message": "Error processing item SKU-1744: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1744", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:43:58,440", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1744", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:58,440", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4153", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:58,440", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4525", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:43:58,441", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:00,516", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8629", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:00,517", "level": "WARNING", "message": "Error processing item SKU-9907: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-9907", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:02,517", "level": "WARNING", "message": "Error processing item SKU-9907: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-9907", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:06,519", "level": "WARNING", "message": "Error processing item SKU-9907: Simulated API failure. Retrying in 8 seconds...", "transaction_id": "TX-SKU-9907", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:14,520", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9907", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:14,520", "level": "WARNING", "message": "Error processing item SKU-5763: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5763", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:16,524", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5763", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:16,524", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8390", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:16,525", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3709", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:16,525", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:18,131", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7706", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:18,132", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6657", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:18,132", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9166", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:18,132", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7490", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:18,132", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8959", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:18,133", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:20,040", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4084", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:20,040", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7836", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:20,041", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5999", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:20,041", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7505", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:20,041", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9162", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:20,041", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:22,539", "level": "WARNING", "message": "Error processing item SKU-2095: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2095", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:24,539", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2095", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:24,539", "level": "WARNING", "message": "Error processing item SKU-4710: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4710", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:26,540", "level": "WARNING", "message": "Error processing item SKU-4710: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-4710", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:30,541", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4710", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:30,541", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6672", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:30,541", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9837", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:30,541", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2925", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:30,541", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:33,448", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8708", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:33,448", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7771", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:33,448", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8403", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:33,448", "level": "WARNING", "message": "Error processing item SKU-1165: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1165", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:35,449", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1165", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:35,449", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5039", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:35,449", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:38,177", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6265", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:38,177", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9261", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:38,177", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9391", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:38,177", "level": "WARNING", "message": "Error processing item SKU-1384: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1384", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:40,179", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1384", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:40,179", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8343", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:40,180", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:41,826", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7017", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:41,826", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4791", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:41,826", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2009", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:41,826", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8920", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:41,826", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7023", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:41,826", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:44,521", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9136", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:44,522", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1079", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:44,522", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4235", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:44,522", "level": "WARNING", "message": "Error processing item SKU-7849: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-7849", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:46,523", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7849", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:46,524", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3283", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:46,524", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:49,122", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3011", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:49,123", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4100", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:49,123", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6307", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:49,123", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7851", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:49,123", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2187", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:49,123", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:50,714", "level": "WARNING", "message": "Error processing item SKU-9658: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-9658", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:52,714", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9658", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:52,714", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8783", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:52,714", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3891", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:52,714", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9442", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:52,715", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4583", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:52,715", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:53,725", "level": "WARNING", "message": "Error processing item SKU-5378: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5378", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:44:55,726", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5378", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:55,726", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9751", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:55,726", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6244", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:55,726", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8843", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:55,726", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5623", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:55,726", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:57,144", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5057", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:57,144", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7172", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:57,144", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3597", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:57,144", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7965", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:57,146", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2064", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:57,146", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:44:58,843", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4362", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:44:58,843", "level": "WARNING", "message": "Error processing item SKU-2122: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2122", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:00,844", "level": "WARNING", "message": "Error processing item SKU-2122: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-2122", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:04,845", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2122", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:04,845", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2231", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:04,845", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6882", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:04,845", "level": "WARNING", "message": "Error processing item SKU-6009: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-6009", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:06,845", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6009", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:06,845", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:45:08,833", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9282", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:08,833", "level": "WARNING", "message": "Error processing item SKU-3792: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-3792", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:10,834", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3792", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:10,834", "level": "WARNING", "message": "Error processing item SKU-4753: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4753", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:12,835", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4753", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:12,835", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8067", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:12,835", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2425", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:12,836", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:45:14,399", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1336", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:14,399", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9101", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:14,399", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7930", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:14,400", "level": "WARNING", "message": "Error processing item SKU-2461: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2461", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:16,401", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2461", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:16,401", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2068", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:16,402", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:45:18,227", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5685", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:18,227", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8322", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:18,227", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3038", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:18,227", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7430", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:18,227", "level": "WARNING", "message": "Error processing item SKU-7307: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-7307", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:20,228", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7307", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:20,228", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:45:22,780", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4177", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:22,780", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9520", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:22,781", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5407", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:22,782", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4998", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:22,782", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1767", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:22,782", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:45:25,675", "level": "WARNING", "message": "Error processing item SKU-3601: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-3601", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:27,676", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3601", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:27,676", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5340", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:27,676", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4569", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:27,676", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6535", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:27,677", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6631", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:27,677", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:45:30,253", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1068", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:30,253", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2260", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:30,253", "level": "WARNING", "message": "Error processing item SKU-1791: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1791", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:32,254", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1791", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:32,254", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6488", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:32,254", "level": "WARNING", "message": "Error processing item SKU-4606: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4606", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:34,256", "level": "WARNING", "message": "Error processing item SKU-4606: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-4606", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:38,257", "level": "WARNING", "message": "Error processing item SKU-4606: Simulated API failure. Retrying in 8 seconds...", "transaction_id": "TX-SKU-4606", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:46,258", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4606", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:46,259", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:45:47,412", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8675", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:47,412", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8781", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:47,413", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5346", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:47,413", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9188", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:47,413", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8690", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:47,413", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:45:48,972", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2427", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:48,972", "level": "WARNING", "message": "Error processing item SKU-5086: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5086", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:50,973", "level": "WARNING", "message": "Error processing item SKU-5086: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-5086", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:54,974", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5086", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:54,974", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6552", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:54,974", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6132", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:54,974", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4306", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:54,974", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:45:56,316", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2853", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:56,316", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5177", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:56,316", "level": "WARNING", "message": "Error processing item SKU-8721: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8721", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:45:58,318", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8721", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:45:58,318", "level": "WARNING", "message": "Error processing item SKU-4281: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4281", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:00,319", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4281", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:00,319", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1887", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:00,319", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:01,813", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8493", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:01,813", "level": "WARNING", "message": "Error processing item SKU-7353: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-7353", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:03,815", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7353", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:03,815", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8162", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:03,815", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6593", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:03,815", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1560", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:03,816", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:06,492", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7530", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:06,494", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8309", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:06,494", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3167", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:06,494", "level": "WARNING", "message": "Error processing item SKU-4045: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4045", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:08,495", "level": "WARNING", "message": "Error processing item SKU-4045: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-4045", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:12,496", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4045", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:12,496", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8810", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:12,496", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:15,331", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9775", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:15,331", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3860", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:15,331", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3752", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:15,331", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1447", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:15,331", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6749", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:15,331", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:16,952", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1033", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:16,952", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9971", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:16,952", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8437", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:16,953", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6665", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:16,953", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4351", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:16,953", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:18,698", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2604", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:18,698", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7779", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:18,698", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8225", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:18,700", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6644", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:18,700", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8055", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:18,700", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:20,336", "level": "WARNING", "message": "Error processing item SKU-1363: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1363", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:22,337", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1363", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:22,337", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1299", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:22,337", "level": "WARNING", "message": "Error processing item SKU-9287: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-9287", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:24,339", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9287", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:24,339", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2100", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:24,339", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5492", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:24,339", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:26,140", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1907", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:26,140", "level": "WARNING", "message": "Error processing item SKU-7619: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-7619", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:28,141", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7619", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:28,141", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2143", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:28,141", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7480", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:28,142", "level": "WARNING", "message": "Error processing item SKU-9297: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-9297", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:30,143", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9297", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:30,143", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:32,365", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1359", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:32,365", "level": "WARNING", "message": "Error processing item SKU-1698: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1698", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:34,366", "level": "WARNING", "message": "Error processing item SKU-1698: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-1698", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:38,367", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1698", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:38,367", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3143", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:38,367", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4365", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:38,367", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1254", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:38,367", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:39,665", "level": "WARNING", "message": "Error processing item SKU-9567: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-9567", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:41,665", "level": "WARNING", "message": "Error processing item SKU-9567: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-9567", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:45,666", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9567", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:45,666", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7030", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:45,666", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9019", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:45,667", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1637", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:45,667", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9246", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:45,667", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:47,151", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5621", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:47,151", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9726", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:47,151", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4297", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:47,151", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6380", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:47,151", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4993", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:47,151", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:48,697", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5948", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:48,697", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9497", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:48,697", "level": "WARNING", "message": "Error processing item SKU-6079: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-6079", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:50,698", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6079", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:50,698", "level": "WARNING", "message": "Error processing item SKU-8982: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8982", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:52,699", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8982", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:52,699", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9235", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:52,699", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:46:55,046", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7433", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:55,046", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6129", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:46:55,046", "level": "WARNING", "message": "Error processing item SKU-1403: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1403", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:46:57,048", "level": "WARNING", "message": "Error processing item SKU-1403: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-1403", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:01,048", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1403", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:01,048", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9736", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:01,048", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8823", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:01,048", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:47:02,273", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3850", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:02,273", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3308", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:02,273", "level": "WARNING", "message": "Error processing item SKU-1556: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1556", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:04,274", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1556", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:04,274", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5864", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:04,274", "level": "WARNING", "message": "Error processing item SKU-4459: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4459", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:06,275", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4459", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:06,275", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:47:08,822", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1139", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:08,822", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7948", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:08,822", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9013", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:08,822", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2158", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:08,822", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4197", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:08,822", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:47:11,097", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2828", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:11,097", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5123", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:11,097", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1366", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:11,097", "level": "WARNING", "message": "Error processing item SKU-8599: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8599", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:13,098", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8599", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:13,098", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1475", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:13,098", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:47:14,427", "level": "WARNING", "message": "Error processing item SKU-7929: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-7929", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:16,428", "level": "WARNING", "message": "Error processing item SKU-7929: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-7929", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:20,429", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7929", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:20,429", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1526", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:20,429", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6187", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:20,429", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5814", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:20,429", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9519", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:20,429", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:47:22,284", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5107", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:22,284", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8035", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:22,284", "level": "WARNING", "message": "Error processing item SKU-1650: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1650", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:24,285", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1650", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:24,286", "level": "WARNING", "message": "Error processing item SKU-1292: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1292", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:26,287", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1292", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:26,287", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5979", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:26,287", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:47:27,704", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8862", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:27,704", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3537", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:27,704", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9448", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:27,704", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2192", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:27,705", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9257", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:27,705", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:47:29,905", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6836", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:29,906", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5912", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:29,906", "level": "WARNING", "message": "Error processing item SKU-4797: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4797", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:31,906", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4797", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:31,906", "level": "WARNING", "message": "Error processing item SKU-9983: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-9983", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:33,907", "level": "WARNING", "message": "Error processing item SKU-9983: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-9983", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:37,908", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9983", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:37,908", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7140", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:37,908", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:47:39,115", "level": "WARNING", "message": "Error processing item SKU-4940: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4940", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:41,115", "level": "WARNING", "message": "Error processing item SKU-4940: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-4940", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:45,116", "level": "WARNING", "message": "Error processing item SKU-4940: Simulated API failure. Retrying in 8 seconds...", "transaction_id": "TX-SKU-4940", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:53,117", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4940", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:53,117", "level": "WARNING", "message": "Error processing item SKU-2948: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2948", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:55,118", "level": "WARNING", "message": "Error processing item SKU-2948: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-2948", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:47:59,119", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2948", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:47:59,119", "level": "WARNING", "message": "Error processing item SKU-2877: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2877", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:01,120", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2877", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:01,120", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1477", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:01,120", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5191", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:01,120", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:48:03,672", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9313", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:03,672", "level": "WARNING", "message": "Error processing item SKU-5821: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5821", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:05,673", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5821", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:05,673", "level": "WARNING", "message": "Error processing item SKU-9185: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-9185", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:07,674", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9185", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:07,674", "level": "WARNING", "message": "Error processing item SKU-8837: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8837", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:09,675", "level": "WARNING", "message": "Error processing item SKU-8837: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-8837", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:13,676", "level": "WARNING", "message": "Error processing item SKU-8837: Simulated API failure. Retrying in 8 seconds...", "transaction_id": "TX-SKU-8837", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:21,677", "level": "WARNING", "message": "Error processing item SKU-8837: Simulated API failure. Retrying in 16 seconds...", "transaction_id": "TX-SKU-8837", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:37,678", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8837", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:37,679", "level": "WARNING", "message": "Error processing item SKU-7764: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-7764", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:39,680", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7764", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:39,680", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:48:42,314", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7415", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:42,314", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8068", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:42,314", "level": "WARNING", "message": "Error processing item SKU-4572: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4572", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:44,315", "level": "WARNING", "message": "Error processing item SKU-4572: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-4572", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:48,316", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4572", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:48,316", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3596", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:48,316", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6336", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:48,316", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:48:50,442", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6846", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:50,442", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3693", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:50,442", "level": "WARNING", "message": "Error processing item SKU-5026: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5026", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:52,444", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5026", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:52,444", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7206", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:52,445", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4003", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:52,445", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:48:55,168", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2604", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:55,168", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3539", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:55,168", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7033", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:55,168", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3272", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:55,168", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8319", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:55,169", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:48:57,288", "level": "WARNING", "message": "Error processing item SKU-1048: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1048", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:48:59,290", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1048", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:59,290", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5463", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:59,290", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9260", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:59,290", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1303", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:59,290", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1571", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:48:59,290", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:00,313", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1699", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:00,314", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3237", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:00,314", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4721", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:00,314", "level": "WARNING", "message": "Error processing item SKU-3046: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-3046", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:02,315", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3046", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:02,315", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1358", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:02,315", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:04,861", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5237", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:04,861", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9653", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:04,863", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7450", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:04,863", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4101", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:04,863", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9701", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:04,863", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:06,062", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1720", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:06,062", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6643", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:06,062", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7676", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:06,062", "level": "WARNING", "message": "Error processing item SKU-2033: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2033", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:08,063", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2033", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:08,063", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4335", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:08,063", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:09,564", "level": "WARNING", "message": "Error processing item SKU-8596: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8596", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:11,565", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8596", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:11,565", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4937", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:11,565", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2302", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:11,565", "level": "WARNING", "message": "Error processing item SKU-2480: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2480", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:13,566", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2480", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:13,567", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3374", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:13,567", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:16,205", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9593", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:16,205", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4816", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:16,205", "level": "WARNING", "message": "Error processing item SKU-8315: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8315", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:18,207", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8315", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:18,208", "level": "WARNING", "message": "Error processing item SKU-1253: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1253", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:20,209", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1253", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:20,209", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9065", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:20,209", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:22,159", "level": "WARNING", "message": "Error processing item SKU-4980: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4980", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:24,160", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4980", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:24,160", "level": "WARNING", "message": "Error processing item SKU-2134: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2134", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:26,162", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2134", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:26,163", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5428", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:26,163", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1618", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:26,163", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2330", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:26,163", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:27,811", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7685", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:27,811", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9128", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:27,812", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4708", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:27,812", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2363", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:27,812", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1129", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:27,812", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:30,435", "level": "WARNING", "message": "Error processing item SKU-2564: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2564", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:32,436", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2564", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:32,436", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8947", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:32,436", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7277", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:32,436", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1021", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:32,436", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9703", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:32,436", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:33,768", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2231", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:33,768", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5616", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:33,768", "level": "WARNING", "message": "Error processing item SKU-8705: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-8705", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:35,769", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8705", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:35,769", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7101", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:35,770", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4404", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:35,770", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:38,622", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3127", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:38,622", "level": "WARNING", "message": "Error processing item SKU-1197: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1197", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:40,623", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1197", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:40,623", "level": "WARNING", "message": "Error processing item SKU-9526: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-9526", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:42,626", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9526", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:42,626", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9344", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:42,626", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4540", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:42,627", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:45,138", "level": "WARNING", "message": "Error processing item SKU-3232: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-3232", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:47,139", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3232", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:47,139", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7214", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:47,139", "level": "WARNING", "message": "Error processing item SKU-5331: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5331", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:49,140", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5331", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:49,140", "level": "WARNING", "message": "Error processing item SKU-5254: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5254", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:51,141", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5254", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:51,141", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4182", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:51,141", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:52,664", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7721", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:52,665", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8177", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:52,665", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1397", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:52,665", "level": "WARNING", "message": "Error processing item SKU-6526: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-6526", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:49:54,666", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6526", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:54,666", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4411", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:54,666", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:55,735", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6352", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:55,735", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3270", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:55,735", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1561", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:55,735", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4969", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:55,736", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2888", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:55,736", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:57,628", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9979", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:57,628", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1613", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:57,628", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1119", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:57,628", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2542", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:57,629", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6877", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:57,629", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:49:59,162", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5178", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:59,162", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4067", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:59,162", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9078", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:59,162", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5134", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:59,162", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1969", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:49:59,162", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:50:00,838", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2427", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:50:00,838", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4672", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:50:00,838", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6479", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:50:00,838", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1827", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:50:00,838", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8523", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:50:00,839", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:50:03,824", "level": "WARNING", "message": "Error processing item SKU-1783: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1783", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:50:05,825", "level": "WARNING", "message": "Error processing item SKU-1783: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-1783", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:50:09,826", "level": "WARNING", "message": "Error processing item SKU-1783: Simulated API failure. Retrying in 8 seconds...", "transaction_id": "TX-SKU-1783", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:50:17,827", "level": "WARNING", "message": "Error processing item SKU-1783: Simulated API failure. Retrying in 16 seconds...", "transaction_id": "TX-SKU-1783", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:50:33,828", "level": "WARNING", "message": "Error processing item SKU-1783: Simulated API failure. Retrying in 32 seconds...", "transaction_id": "TX-SKU-1783", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:51:05,829", "level": "ERROR", "message": "Failed to process item SKU-1783 after 5 attempts. Sending to dead-letter queue.", "transaction_id": "TX-SKU-1783", "duration_ms": 0, "outcome": "failed"}
+{"timestamp": "2025-08-09 15:51:05,829", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1665", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:05,830", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8422", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:05,830", "level": "WARNING", "message": "Error processing item SKU-9478: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-9478", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:51:07,830", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9478", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:07,831", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5012", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:07,831", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:51:09,155", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9711", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:09,156", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6495", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:09,156", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1642", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:09,156", "level": "WARNING", "message": "Error processing item SKU-4459: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-4459", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:51:11,157", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-4459", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:11,157", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9310", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:11,157", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:51:12,285", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2489", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:12,286", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1421", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:12,286", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6372", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:12,286", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3613", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:12,286", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8520", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:12,286", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:51:14,057", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1548", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:14,058", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3260", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:14,058", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5400", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:14,058", "level": "WARNING", "message": "Error processing item SKU-1174: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-1174", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:51:16,058", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-1174", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:16,058", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3980", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:51:16,058", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:58:05,701", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-9416", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:05,701", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2352", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:05,702", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-3265", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:05,702", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8416", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:05,702", "level": "WARNING", "message": "Error processing item SKU-2432: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-2432", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:58:07,702", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-2432", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:07,702", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:58:08,854", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-8319", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:08,854", "level": "WARNING", "message": "Error processing item SKU-5387: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5387", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:58:10,855", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5387", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:10,855", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5183", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:10,856", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6287", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:10,856", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5999", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:10,856", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
+{"timestamp": "2025-08-09 15:58:11,989", "level": "WARNING", "message": "Error processing item SKU-5796: Simulated API failure. Retrying in 2 seconds...", "transaction_id": "TX-SKU-5796", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:58:13,990", "level": "WARNING", "message": "Error processing item SKU-5796: Simulated API failure. Retrying in 4 seconds...", "transaction_id": "TX-SKU-5796", "duration_ms": 0, "outcome": "retry"}
+{"timestamp": "2025-08-09 15:58:17,991", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5796", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:17,992", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5932", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:17,992", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-6515", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:17,992", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-5798", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:17,993", "level": "INFO", "message": "Transaction processed successfully.", "transaction_id": "TX-SKU-7516", "duration_ms": 100, "outcome": "success"}
+{"timestamp": "2025-08-09 15:58:17,993", "level": "INFO", "message": "Batch of inventory items processed.", "transaction_id": "N/A", "duration_ms": 0, "outcome": "N/A"}
