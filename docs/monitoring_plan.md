@@ -15,7 +15,6 @@ The bot will emit structured **JSON logs** for detailed event tracking and **Pro
 
 ## 4. Visualization and Alerting
 - **Visualization:** A **Grafana container**, also managed by Docker Compose, connects to Prometheus to display real-time dashboards of key metrics.
-- **Alerting:** Alerts will be configured in Grafana based on predefined thresholds. For example, an alert will be sent if the **error rate** exceeds 5% or the **average transaction latency** surpasses a 2-second threshold.
 
 ## 5. Key Performance Indicators (KPIs)
 - **Transaction Success Rate:** Percentage of successfully processed inventory transactions.
@@ -24,7 +23,7 @@ The bot will emit structured **JSON logs** for detailed event tracking and **Pro
 - **Resource Utilization:** CPU and memory usage of the bot instances.
 
 ## 6. Diagram
-
+See the /diagrams directory to see this.
 
 ## 7. Citations
 - Docker. (2025). *Docker Compose*. Retrieved from [https://docs.docker.com/compose/](https://docs.docker.com/compose/)
